@@ -1,0 +1,57 @@
+﻿  Uic'ing CMainWindow.ui...
+  Uic'ing DataManager.ui...
+  Uic'ing ParameterSetting.ui...
+  Uic'ing ResultDetails.ui...
+  Rcc'ing CMainWindow.qrc...
+  Moc'ing CMainWindow.h...
+  Moc'ing TcpManager.h...
+  Moc'ing Camera-SDK\include\IKapCamera.h...
+  Moc'ing DataManager.h...
+  Moc'ing DetectionAlgo.h...
+  Moc'ing SaveImage.h...
+  Moc'ing ResultDetails.h...
+  Moc'ing ParameterSettings.h...
+  Moc'ing MyLabel.h...
+  IKapCamera.cpp
+  CMainWindow.cpp
+  Config.cpp
+  DataManager.cpp
+  DetectionAlgo.cpp
+  main.cpp
+  melsec_helper.cpp
+  melsec_mc_bin.cpp
+  melsec_mc_comm.cpp
+  socket.cpp
+  utill.cpp
+  MyLabel.cpp
+  ParameterManager.cpp
+  ParameterSettings.cpp
+  ResultDetials.cpp
+  SaveImage.cpp
+  TcpManager.cpp
+d:\mhy\glassedgedetection_cell2\glassedgedetection_pvd\glassedgedetection\algo-sdk\include\segmentation.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ParameterSettings.cpp)
+d:\mhy\glassedgedetection_cell2\glassedgedetection_pvd\glassedgedetection\algo-sdk\include\find_contour.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 ParameterSettings.cpp)
+d:\mhy\glassedgedetection_cell2\glassedgedetection_pvd\glassedgedetection\algo-sdk\include\segmentation.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 DetectionAlgo.cpp)
+d:\mhy\glassedgedetection_cell2\glassedgedetection_pvd\glassedgedetection\algo-sdk\include\find_contour.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 DetectionAlgo.cpp)
+d:\mhy\glassedgedetection_cell2\glassedgedetection_pvd\glassedgedetection\algo-sdk\include\config_setting.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 DetectionAlgo.cpp)
+d:\mhy\glassedgedetection_cell2\glassedgedetection_pvd\glassedgedetection\algo-sdk\include\segmentation.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+d:\mhy\glassedgedetection_cell2\glassedgedetection_pvd\glassedgedetection\algo-sdk\include\find_contour.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+d:\mhy\glassedgedetection_cell2\glassedgedetection_pvd\glassedgedetection\algo-sdk\include\segmentation.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 CMainWindow.cpp)
+d:\mhy\glassedgedetection_cell2\glassedgedetection_pvd\glassedgedetection\algo-sdk\include\find_contour.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 CMainWindow.cpp)
+  qrc_CMainWindow.cpp
+  moc_CMainWindow.cpp
+  moc_TcpManager.cpp
+  moc_IKapCamera.cpp
+  moc_DataManager.cpp
+  moc_DetectionAlgo.cpp
+  moc_SaveImage.cpp
+  moc_ResultDetails.cpp
+  moc_ParameterSettings.cpp
+  moc_MyLabel.cpp
+d:\mhy\glassedgedetection_cell2\glassedgedetection_pvd\glassedgedetection\algo-sdk\include\segmentation.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 GeneratedFiles\Release\moc_DetectionAlgo.cpp)
+d:\mhy\glassedgedetection_cell2\glassedgedetection_pvd\glassedgedetection\algo-sdk\include\find_contour.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 GeneratedFiles\Release\moc_DetectionAlgo.cpp)
+d:\mhy\glassedgedetection_cell2\glassedgedetection_pvd\glassedgedetection\algo-sdk\include\segmentation.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 GeneratedFiles\Release\moc_ParameterSettings.cpp)
+d:\mhy\glassedgedetection_cell2\glassedgedetection_pvd\glassedgedetection\algo-sdk\include\find_contour.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 GeneratedFiles\Release\moc_ParameterSettings.cpp)
+d:\mhy\glassedgedetection_cell2\glassedgedetection_pvd\glassedgedetection\algo-sdk\include\segmentation.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 GeneratedFiles\Release\moc_CMainWindow.cpp)
+d:\mhy\glassedgedetection_cell2\glassedgedetection_pvd\glassedgedetection\algo-sdk\include\find_contour.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 GeneratedFiles\Release\moc_CMainWindow.cpp)
+  GlassEdgeDetection.vcxproj -> D:\Mhy\GlassEdgeDetection_CELL2\GlassEdgeDetection_PVD\x64\Release\GlassEdgeDetection.exe

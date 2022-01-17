@@ -1,0 +1,11 @@
+[2021-10-29 09:45:36.000] [HuiKeSegModule_0] [info] init start, path:D:/Mhy/GlassEdgeDetection_CELL2/GlassEdgeDetection_CELL/x64/Release/model/huike_baseline.smartmore
+[2021-10-29 09:45:36.000] [HuiKeSegModule_0] [info] use gpu = True, device id = 0
+[2021-10-29 09:45:36.161] [HuiKeSegModule_0] [info] model config is empty, set to defult: {bg, ng}  
+[2021-10-29 09:45:36.162] [HuiKeSegModule_0] [info] 
+[2021-10-29 09:45:51.115] [HuiKeSegModule_0] [info] model init OK
+[2021-10-29 09:46:00.661] [HuiKeSegModule_0] [info] inference done, result: OK, total time: 1381 ms
+[2021-10-29 09:46:01.024] [HuiKeSegModule_0] [info] inference done, result: OK, total time: 110 ms
+[2021-10-29 09:46:02.261] [HuiKeSegModule_0] [info] inference done, result: OK, total time: 101 ms
+[2021-10-29 09:46:04.969] [HuiKeSegModule_0] [info] inference done, result: OK, total time: 101 ms
+[2021-10-29 09:46:07.296] [HuiKeSegModule_0] [info] inference done, result: OK, total time: 103 ms
+[2021-10-29 09:46:07.988] [HuiKeSegModule_0] [info] inference done, result: OK, total time: 109 ms
